@@ -39,7 +39,7 @@ Pretrained models were used for all experiments. Due to architectural difference
 |--------------|----------------|-------|----------|--------|
 | Mask2Former  | 0.882          | 0.543 | 0.704    | 792.5G |
 | RMT-PPAD     | 0.942          | 0.875 | 0.931    | 209.3G |
-| TwinLiteNet+ | **0.979**      | **0.884** | **0.938** | **17.58G** |
+| TwinLiteNet+ | 0.979      | **0.884** | 0.938 | **17.58G** |
 
 ---
 
