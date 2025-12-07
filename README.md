@@ -9,8 +9,8 @@ We benchmark how a model’s training scope and task responsibility impact perfo
 
 Our goal is to evaluate whether increasing contextual breadth improves drivable-area segmentation, or if narrow task specialization yields superior accuracy and efficiency for safety-critical perception.
 
-![Image](https://github.com/user-attachments/assets/8945cff6-009f-47a3-a12b-043f47839f40)
-![Image](https://github.com/user-attachments/assets/7069f116-6197-48c0-8bb2-ed09d5211087)
+![Image](https://github.com/user-attachments/assets/576b51b4-bc9d-41eb-ba56-ceb4afdde6ac)
+![Image](https://github.com/user-attachments/assets/ffbfdc3c-7e44-405f-8073-4945cf012310)
 
 
 ## Models Evaluated
