@@ -2,7 +2,7 @@
 
 This repository contains the code and evaluation artifacts for a comparative study of modern deep learning paradigms applied to **drivable-area segmentation**, a core perception task for self-driving systems.
 
-We benchmark how a model’s **training scope and task responsibility** impact performance, contrasting:
+We benchmark how a model’s training scope and task responsibility impact performance, contrasting:
 - task-specialized architectures,
 - multi-task perception frameworks designed for self-driving,
 - and general-purpose transformer models with global scene reasoning.
