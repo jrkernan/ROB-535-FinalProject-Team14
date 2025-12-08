@@ -13,11 +13,11 @@ All model architecture details, training procedures, dataset conventions, and en
 > **RMT-PPAD GitHub:**  
 > https://github.com/JiayuanWang-JW/RMT-PPAD
 
-Users should follow the original repository to:
+Please follow the instructions in the original repository to:
 - install dependencies
-- configure the Python environment
-- download pretrained checkpoints
-- prepare the BDD100K dataset
+- set up the environment
+- download the pretrained model
+- download and organize the BDD100K dataset
 
 ---
 
