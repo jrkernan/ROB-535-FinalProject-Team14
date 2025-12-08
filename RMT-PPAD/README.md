@@ -8,7 +8,7 @@ RMT-PPAD is a multi-task perception framework designed for autonomous driving th
 
 ## Original Repository
 
-All model architecture details, training procedures, dataset conventions, and environment setup instructions are described in the original repository:
+All model architecture details, training procedures, and dependency information are provided by the original authors:
 
 > **RMT-PPAD GitHub:**  
 > https://github.com/JiayuanWang-JW/RMT-PPAD
