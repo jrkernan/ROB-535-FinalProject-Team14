@@ -37,11 +37,11 @@ Pretrained models were used for all experiments. Due to architectural difference
 
 ## Quantitative Results
 
-| Model         | Pixel Accuracy | IoU   | F1 Score | FLOPs  |
-|--------------|----------------|-------|----------|--------|
-| Mask2Former  | 0.882          | 0.543 | 0.704    | 792.5G |
-| RMT-PPAD     | 0.942          | 0.875 | 0.931    | 209.3G |
-| TwinLiteNet+ | 0.979      | **0.884** | 0.938 | **17.58G** |
+| Model         | Pixel Accuracy | IoU   | F1 Score | FLOPs (G) | Params (M) |
+|--------------|----------------|-------|----------|-------|--------|
+| Mask2Former  | 0.882          | 0.543 | 0.704    | 792.5 | 215     |
+| RMT-PPAD     | 0.942          | 0.875 | 0.931    | 209.3 | 34.3    |
+| TwinLiteNet+ | 0.979      | **0.884** | 0.938    | 17.58 | **1.94**|
 
 ---
 
